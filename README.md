@@ -1,6 +1,8 @@
-# Hi, I'm Adrian Carrasco 👋
+# Hi 👋, I'm Adrian Carrasco
 
-Cybersecurity & Cloud Security Student based in Vancouver, Canada.
+### Cybersecurity & Cloud Security Student | eCPPT | eJPT | Python | Linux | AWS
+
+Cybersecurity & Cloud Security Student. 
 
 I focus on penetration testing, vulnerability assessment, cloud security, Linux, networking, and Python automation.
 
